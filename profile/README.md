@@ -16,6 +16,9 @@ successful policies, investment decisions and advocacy efforts.
 We use this GitHub organisation to develop our data platforms and
 analyses.
 
-You can find our published reports on [our
-website](https://energyandcleanair.org/)
+You can find our published reports and products on [our website].
 
+If you want to contribute, take a look at our [contributing guidelines].
+
+[our website]: https://energyandcleanair.org/
+[contributing guidelines]: https://github.com/github/docs/blob/main/.github/CONTRIBUTING.md
