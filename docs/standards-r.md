@@ -4,9 +4,11 @@ This document describes our best practices for R.
 
 ## Linted style
 
-For many of our best practices for R, we use [`lintr`'s default settings]. The exception is an
-extended maximum line length of 100 characters. For our default config, you can copy the [example
-`.lintr`] file to your repo to get these.
+For many of our best practices for R, we use [`lintr`'s default settings] which is based on the
+`tidyverse` best practices. For our default config, you can copy the [example `.lintr`] file to your
+repo to get these. Your repository can overwrite these settings where appropriate, for example,
+if you're migrating the repository or the changes to meet some of the requirements would be
+too much to make.
 
 ## Additional practices
 
