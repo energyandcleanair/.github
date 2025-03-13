@@ -21,4 +21,4 @@ You can find our published reports and products on [our website].
 If you want to contribute, take a look at our [contributing guidelines].
 
 [our website]: https://energyandcleanair.org/
-[contributing guidelines]: https://github.com/github/docs/blob/main/.github/CONTRIBUTING.md
+[contributing guidelines]: https://github.com/energyandcleanair/.github/blob/master/CONTRIBUTING.md
